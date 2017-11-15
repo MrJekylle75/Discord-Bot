@@ -1,2 +1,4 @@
 # tutocode
-<h1> Test </h1>
+<h1>Commands</h1>
+
+ • <b>Ping</b>
