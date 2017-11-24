@@ -1,4 +1,4 @@
-# tutocode
+# Discord Bot
 <h1>Commands</h1><br>
 
  • <b>Ping</b><br>
