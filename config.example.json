@@ -1,0 +1,7 @@
+{
+ "ownerIDs" : ["OWNERS ID"],
+ "authorizeIDs" : [],
+ "prefix": "BOT PREFIX",
+ "clientID" :  "CLIENT_ID",
+ "token": "YOUR BOT TOKEN"
+ }
